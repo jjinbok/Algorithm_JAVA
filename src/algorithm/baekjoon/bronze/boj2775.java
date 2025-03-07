@@ -1,7 +1,5 @@
 package algorithm.baekjoon.bronze;
 
-import java.util.Arrays;
-import java.util.Map;
 import java.util.Scanner;
 
 public class boj2775 {
@@ -37,5 +35,6 @@ public class boj2775 {
         for (int i = lengthValue; i > 0; i--) {
             System.out.println(resultPeople[i - 1]);
         }
+        sc.close();
     }
 }

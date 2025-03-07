@@ -24,5 +24,6 @@ public class boj9095 {
         for (int i = 0; i < N; i++) {
             System.out.println(howToMakeNumber[questionNumber[i] - 1]);
         }
+        scanner.close();
     }
 }

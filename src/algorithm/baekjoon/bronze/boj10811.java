@@ -25,6 +25,8 @@ public class boj10811 {
         for (int k = 0; k < bucketNumber; k++) {
             System.out.print(bucket[k] + " ");
         }
+        sc.close();
+
     }
 
     public static void reverseArray(int[] bucket, int first, int second) {
@@ -36,4 +38,5 @@ public class boj10811 {
             second--;
         }
     }
+    
 }

@@ -13,5 +13,6 @@ public class boj9656 {
         } else {
             System.out.println("CY");
         }
+        scanner.close();
     }
 }

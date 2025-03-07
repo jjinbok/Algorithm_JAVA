@@ -30,5 +30,6 @@ public class boj9625 {
         }
 
         System.out.print(arrayA[k] + " " + arrayB[k]);
+        scanner.close();
     }
 }
