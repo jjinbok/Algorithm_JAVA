@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
-class Main {
+class boj1149 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
@@ -44,5 +44,5 @@ class Main {
  * 2. 마지막 집과 그 전의 집의 색은 달라야 한다.
  * 3. i 번째 집의 색은 앞 뒤와 색이 달라야 한다. 
  * 
- * -> 1
+ * 
  */
