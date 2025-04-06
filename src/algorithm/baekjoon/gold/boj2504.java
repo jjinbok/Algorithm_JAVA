@@ -1,4 +1,4 @@
-package algorithm.baekjoon.sliver;
+package algorithm.baekjoon.gold;
 
 import java.util.*;
 import java.io.*;
