@@ -1,3 +1,5 @@
+package algorithm.baekjoon.bronze;
+
 import java.io.IOException;
 
 class Main {
