@@ -1,8 +1,10 @@
+package algorithm.baekjoon.gold;
+
 import java.io.*;
 import java.util.LinkedList;
 import java.util.Queue;
 
-class Main {
+class boj10026 {
 
     static String[][] grid;
     static boolean[][] visited;
