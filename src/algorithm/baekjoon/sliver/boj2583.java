@@ -11,7 +11,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-class Main {
+class boj2583 {
 
     static int[][] grid;
     static int[][] vistied;
