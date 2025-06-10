@@ -3,7 +3,7 @@ package algorithm.baekjoon.gold;
 import java.io.*;
 import java.util.*;
 
-class Main {
+class boj5427 {
 
     static int row, column;
     static String[][] grid;

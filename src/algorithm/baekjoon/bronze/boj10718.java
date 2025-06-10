@@ -2,7 +2,7 @@ package algorithm.baekjoon.bronze;
 
 import java.io.IOException;
 
-class Main {
+class boj10718 {
     public static void main(String[] args) throws IOException {
         StringBuilder sb = new StringBuilder();
 

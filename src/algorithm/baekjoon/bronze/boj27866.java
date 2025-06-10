@@ -2,7 +2,7 @@ package algorithm.baekjoon.bronze;
 
 import java.io.*;
 
-class Main {
+class boj27866 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 

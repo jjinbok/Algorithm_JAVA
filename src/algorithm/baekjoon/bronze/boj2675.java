@@ -3,7 +3,7 @@ package algorithm.baekjoon.bronze;
 import java.io.*;
 import java.util.StringTokenizer;
 
-class Main {
+class boj2675 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
