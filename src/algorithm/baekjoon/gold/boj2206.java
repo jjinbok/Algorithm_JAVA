@@ -1,3 +1,5 @@
+package algorithm.baekjoon.gold;
+
 import java.io.*;
 import java.util.*;
 
